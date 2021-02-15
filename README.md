@@ -1,3 +1,4 @@
+# Try out the website here: https://alblazer.github.io/web-design-challenge/
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
